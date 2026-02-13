@@ -1,6 +1,6 @@
-# AMUHACKS 5.0-CTF Writeups
+# CREST-CTF Writeups
 
-A collection of writeups from the AMUHACKS 5.0 CTF.
+A collection of writeups from the CREST-CTF.
 
 ## Table of Contents
 
